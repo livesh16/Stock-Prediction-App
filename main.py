@@ -1,7 +1,6 @@
 import streamlit as st 
 
 import yfinance as yf
-import streamlit as st
 from datetime import date
 
 import yfinance as yf
