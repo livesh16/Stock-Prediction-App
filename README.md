@@ -1,2 +1,1 @@
-# Stock-Prediction-App
-streamlit-10
+# streamlit-10
